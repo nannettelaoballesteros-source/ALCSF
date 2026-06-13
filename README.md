@@ -1,3 +1,8 @@
+> ### ⚠️ Legal Notice & Ownership Structure
+> * **Patent Status:** This framework is currently **Patent Pending**.
+> * **Ownership:** This proprietary framework and all associated intellectual property are owned exclusively by **Inventor: Nannette Lao Ballesteros / Delta Nannette Omega - Yeoman (DNO-Y)**.
+> * **Distribution:** This framework is gifted to the **BNG Global Humanitarian Foundation (BNG)**, which maintains exclusive authorization to distribute and open-source it under the dual-license terms (MIT / Apache 2.0) detailed in the accompanying `LICENSE` file.
+
 # Adaptive Latency and Contextual Synchronization Framework (ALCSF)
 
 An advanced computational architecture for managing system optimization and execution latency across distributed processing nodes in an artificial intelligence system architecture.
